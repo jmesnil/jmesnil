@@ -11,19 +11,19 @@ I am a proponent of Open Source development and all the code I write either prof
 ### Connect with me:
 
 <div> 
-<img align="left" alt="jmesnil.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
+<img alt="jmesnil.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
 <a href="https://jmesnil.net/">jmesnil.net</a>
 </div>
 <div> 
-<img align="left" alt="@jmesnil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg">
+<img alt="@jmesnil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg">
 <a href="https://mastodon.online/@jmesnil">@jmesnil</a>
 </div>
 <div> 
-<img align="left" alt="@jmesnil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
+<img alt="@jmesnil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 <a href="https://twitter.com/jmesnil">@jmesnil</a>
 </div>
 <div> 
-<img align="left" alt="@jmesnil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+<img alt="My LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 <a href="https://www.linkedin.com/in/jeff-mesnil-7896393/)">My LinkedIn Profile</a>
 </div>
 
