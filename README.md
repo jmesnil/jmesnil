@@ -1,6 +1,6 @@
 I'm Jean-Frederic "Jeff" Mesnil. I am a professional software touche-à-tout, amateur photographer.
 
-> I want to build software that creates a more sustainable and open world. 
+> I aim to build software based on sustainability, openness, and humane values, driving towards a more equitable world. 
 
 I am employed by [Red Hat](https://www.redhat.com/en) as a Principal Software Engineer. I am working for Red Hat's middleware division on the [WildFly](https://wildfly.org/) and [JBoss EAP](https://www.redhat.com/en/technologies/jboss-middleware/application-platform) application servers.
 
