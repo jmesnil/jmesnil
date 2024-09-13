@@ -28,9 +28,9 @@ I am a proponent of Open Source development and all the code I write either prof
 ### Latest blog posts on [jmesnil.net](https://jmesnil.net/)
 
 <!-- BLOG-POST-LIST:START -->
+- [20-year anniversary of jmesnil.net](http://jmesnil.net/weblog/2024/09/12/20-year-anniversary-of-jmesnilnet/)
 - [My Professional Mission Statement](http://jmesnil.net/weblog/2024/09/10/my-mission-statement/)
 - [Engineering is Problem-solving](http://jmesnil.net/weblog/2024/09/09/engineering-is-problem-solving/)
 - [WildFly - The GitOps Way](http://jmesnil.net/weblog/2024/03/05/wildfly-gitops/)
 - [&amp;#8680; An Illustrated Guide to 12 Factor Apps](https://www.redhat.com/architect/12-factor-app)
-- [WildFly and the Twelve-factor App Methodology](http://jmesnil.net/weblog/2023/09/13/wildfly-12-factor-app/)
 <!-- BLOG-POST-LIST:END -->
