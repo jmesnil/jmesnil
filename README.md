@@ -2,7 +2,7 @@ I'm Jean-Frederic "Jeff" Mesnil. I am a professional software touche-à-tout, am
 
 > I aim to build software based on sustainability, openness, and humane values, driving towards a more equitable world. 
 
-I am employed by [Red Hat](https://www.redhat.com/en) as a Senior Principal Software Engineer. I am working for Red Hat's middleware division on the [WildFly](https://wildfly.org/) and [JBoss EAP](https://www.redhat.com/en/technologies/jboss-middleware/application-platform) application servers.
+I am employed by [Red Hat](https://www.redhat.com/en) as a Senior Principal Software Engineer. I am working for Red Hat's Application Runtimes division, mainly on the [WildFly](https://wildfly.org/) and [JBoss EAP](https://www.redhat.com/en/technologies/jboss-middleware/application-platform) application servers.
 
 I am a proponent of Open Source development and all the code I write either professionally or privately is available under Open Source licenses. These days, most of my work is on [GitHub](https://github.com/jmesnil).
 
