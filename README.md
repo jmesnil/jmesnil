@@ -28,7 +28,7 @@ I am a proponent of Open Source development and all the code I write either prof
 ### Latest blog posts on [jmesnil.net](https://jmesnil.net/)
 
 <!-- BLOG-POST-LIST:START -->
-- [A kubectl plugin to run WildFly management operations on Kubernetes](http://jmesnil.net/weblog/2024/12/11/a-kubectl-plugin-for-wildfly-jboss-cli/)
+- [&amp;#8680; Prototyping WildFly with JBang @ WildFly Mini Conference](https://www.youtube.com/live/d8IExBP7rxw)
 - [Deliver Go applications as containers](http://jmesnil.net/weblog/2024/10/31/deliver-go-applications-as-containers/)
 - [Dikembe Mutombo &lpar;1966-2024&rpar;](http://jmesnil.net/weblog/2024/10/01/dikembe-mutombo/)
 - [20-year anniversary of jmesnil.net](http://jmesnil.net/weblog/2024/09/12/20-year-anniversary-of-jmesnilnet/)
